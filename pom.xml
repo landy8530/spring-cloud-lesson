@@ -18,6 +18,9 @@
 
     <modules>
         <module>spring-cloud-lesson-1</module>
+        <module>spring-cloud-lesson-2</module>
+        <module>spring-cloud-lesson-3-config-client</module>
+        <module>spring-cloud-lesson-3-config-server</module>
     </modules>
 
 </project>

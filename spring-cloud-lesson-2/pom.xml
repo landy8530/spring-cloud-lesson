@@ -10,11 +10,11 @@
 	</parent>
 
 	<groupId>org.landy</groupId>
-	<artifactId>spring-cloud-lesson-1</artifactId>
+	<artifactId>spring-cloud-lesson-2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-cloud-lesson-1</name>
+	<name>spring-cloud-lesson-2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
